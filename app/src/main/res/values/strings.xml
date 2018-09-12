@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LeagueApplication</string>
+
+    <!-- league api key -->
+    <string name="api_key">RGAPI-be32a528-1fbc-4c05-8856-e985df653865</string>
+</resources>
