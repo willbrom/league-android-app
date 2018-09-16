@@ -1,5 +1,8 @@
 package com.example.alisajid.leagueapplication.model;
 
+import com.example.alisajid.leagueapplication.model.enums.Lane;
+import com.example.alisajid.leagueapplication.model.enums.Role;
+
 import java.util.Map;
 
 public class TimeLine {

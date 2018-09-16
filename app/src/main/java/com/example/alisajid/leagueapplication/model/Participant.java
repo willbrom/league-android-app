@@ -8,7 +8,7 @@ public class Participant {
     private long spell2ID;
     private Mastery[] masteries;
     private Rune[] runes;
-    private HighestAchievedSeasonTier highestAchievedSeasonTier;
+//    private HighestAchievedSeasonTier highestAchievedSeasonTier;
     private Stats stats;
-    private Timeline timeline;
+//    private Timeline timeline;
 }
